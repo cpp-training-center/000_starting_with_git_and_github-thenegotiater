@@ -16,7 +16,7 @@ The goal of this course is to give you a brief introduction to GitHub. We’ll a
 
 ## 💻 GitHub features 
 
-### Repositories 
+### Repositories d
 
 A repository is where your project work happens. It contains all of your project’s files and revision history. You can work within a repository alone or invite others to collaborate with you on those files. As you work more on GitHub you will have many repositories. Use your GitHub dashboard to easily navigate to them. You must be logged in though! 
 
